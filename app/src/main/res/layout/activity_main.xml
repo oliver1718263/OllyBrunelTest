@@ -10,7 +10,7 @@
         android:id="@+id/buttonID"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="CLICK ME"
+        android:text="HELLO WORLD"
         tools:layout_editor_absoluteX="147dp"
         tools:layout_editor_absoluteY="230dp" />
 </android.support.constraint.ConstraintLayout>
