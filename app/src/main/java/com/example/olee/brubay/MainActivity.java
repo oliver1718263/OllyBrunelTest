@@ -9,7 +9,7 @@ import android.widget.Toast;
 public class MainActivity extends AppCompatActivity {
 
     protected Button myButton;
-    String myString = "This is a notification";
+    String myString = "This is a new notification";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
